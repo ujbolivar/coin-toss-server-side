@@ -1,0 +1,8 @@
+{
+  "name": "coin-toss-hw",
+  "version": "1.0.0",
+  "description": "a coin toss app with the logic happening server side.",
+  "main": "index.js",
+  "author": "Unai Bolivar",
+  "license": "MIT"
+}
